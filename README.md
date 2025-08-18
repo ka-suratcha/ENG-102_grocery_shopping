@@ -42,3 +42,13 @@ The shopping process is outlined in the flowchart below:
 5. User decides whether to purchase another item or proceed to checkout.
 6. At checkout, user inputs the amount paid, and the program calculates change.
 7. A receipt is displayed with all purchases, subtotal, tax, total, and change.
+
+---
+
+🚀 Future Improvements
+- The entire program is written in a single main function. Reusability and readability would be improved by refactoring using functions.
+- Price, item, and category data are hard-coded. Data from a file or database may be loaded in later iterations.
+- Once an item is added to the shopping list, it cannot be removed.
+- It only operates in the console. Further improvements might include a web-based version or a graphical user interface.
+- The maximum number of items on a shopping list is 1000. Flexibility would be increased by using dynamic data structures.
+- The system might become more practical by including membership features, discounts, or promotions.
