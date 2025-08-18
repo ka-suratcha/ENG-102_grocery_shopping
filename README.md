@@ -45,7 +45,7 @@ The shopping process is outlined in the flowchart below:
 
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 - The entire program is written in a single main function. Reusability and readability would be improved by refactoring using functions.
 - Price, item, and category data are hard-coded. Data from a file or database may be loaded in later iterations.
 - Once an item is added to the shopping list, it cannot be removed.
