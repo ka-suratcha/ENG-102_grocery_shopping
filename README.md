@@ -32,8 +32,7 @@ Simulating a **console-based grocery shopping system** is the aim of this projec
 
 ## 🧩 Flowchart
 The shopping process is outlined in the flowchart below:
-
-![Flowchart](FC_ENG-102_grocery_shopping.jpg)
+![FC_ENG-102_grocery_shopping](https://github.com/user-attachments/assets/cbff3141-a53e-46f5-9d37-c103d9a56a36)
 
 ## ▶️ Example Workflow
 1. User selects a grocery category (e.g., Fruits).
