@@ -27,3 +27,6 @@ main.exe
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignore draw.io diagram
+FC_ENG-102_grocery_shopping.drawio
