@@ -2,6 +2,7 @@
 
 ## 📖 Overview
 This project was created as part of **ENG-102: Computer Programming for Engineer**.
+
 This project was created to put all of the basic programming concepts that were taught in the course to use. The entire program is written in a single `main` function because functions had not yet been covered in the course.
 
 Simulating a **console-based grocery shopping system** is the aim of this project. Users can browse categories, select items, verify their choices, enter quantities, and then pay using the program. It shows how to use C's arrays, loops, conditional statements, input validation, and formatted output.
